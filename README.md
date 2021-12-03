@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Juan
-#### I am a Full-Stack Developer
 ![I am a Full-Stack Developer](https://github.com/liscanojac/liscanojac/blob/main/ghBanner.png)
 
+# Hi there 👋, my name is Juan
+### I am a Full-Stack Developer
 My 'secret' is to be always learning and the ability to combine code with functionality. Passionate about ReactJS and Redux as tools that have helped me to create powerful apps with beautiful web designs.
 
 But is not only bling what I'm after, currently I'm learning TDD with ReactJS and all that philosophy of constant improvement and developing code as solid as possible throughout prior testing. I've also worked with NodeJS tools and in a back-end sense with ExpressJS and Sequelize. On the database side of things I have used postgreSQL and currently learning MongoDB and its tools.
@@ -18,7 +18,8 @@ But is not only bling what I'm after, currently I'm learning TDD with ReactJS an
 
 When myself, a ChemEng🥼 decided a career change I always knew that I had to aim to the MERN Stack, because learning React:atom_symbol: would give me the chance to make the best chemical⚗️ puns about my code.:stuck_out_tongue:
 
-Skills: REACT / REDUX / NODE JS / EXPRESS JS / SEQUELIZE / SQL / BOOTSTRAP / JS / HTML / CSS
+## Skills
+REACT / REDUX / NODE JS / EXPRESS JS / SEQUELIZE / SQL / BOOTSTRAP / JS / HTML / CSS
 
 - 🏗️ I’m currently working on this page. 
 - 🌱 I’m currently learning TDD with ReactJS and MongoDB 
