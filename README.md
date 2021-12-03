@@ -11,9 +11,9 @@ But is not only bling what I'm after, currently I'm learning TDD with ReactJS an
 - :mortar_board: Bachelor Degree in Chemical Engineering.
 - :muscle: Skills: HTML, CSS, JavaScript, Bootstrap, ReactJS, Redux, NodeJS, ExpressJS, Sequelize, SQL.
 - :gb: Fluent in English. IELTS (7) and Cambridge (174).
-- :briefcase: Portfolio liscanojac.netlify.app
-- :card_file_box: LinkedIn [/liscanojac](https://www.linkedin.com/in/liscanojac/)
-- :bird: Twitter: @liscanojac
+- :briefcase: Portfolio [liscanojac.netlify.app](https://liscanojac.netlify.app/)
+- :card_file_box: LinkedIn: [/liscanojac](https://www.linkedin.com/in/liscanojac/)
+- :bird: Twitter: [@liscanojac](https://twitter.com/liscanojac)
 - :koala: Two advanced diplomas in Australia: Project Management and Leadership and Management.
 
 When myself, a ChemEng🥼 decided a career change I always knew that I had to aim to the MERN Stack, because learning React:atom_symbol: would give me the chance to make the best chemical⚗️ puns about my code.:stuck_out_tongue:
