@@ -15,14 +15,15 @@ But is not only bling what I'm after, currently I'm learning TDD with ReactJS an
 :card_file_box: LinkedIn: /liscanojac
 :bird: Twitter: @liscanojac
 :koala: Two advanced diplomas in Australia: Project Management and Leadership and Management.
-When myself, a ChemEng decided a career change I always knew that I had to aim to the MERN Stack, because learning React:atom_symbol: would give me the chance to make the best chemical about my code.:stuck_out_tongue:
+
+When myself, a ChemEng🥼 decided a career change I always knew that I had to aim to the MERN Stack, because learning React:atom_symbol: would give me the chance to make the best chemical⚗️ puns about my code.:stuck_out_tongue:
 
 Skills: REACT / REDUX / NODE JS / EXPRESS JS / SEQUELIZE / SQL / BOOTSTRAP / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🏗️ I’m currently working on this page. 
 - 🌱 I’m currently learning TDD with ReactJS and MongoDB 
 - 📫 How to reach me: liscanojac@gmail.com 
-- ⚡ Fun fact: I love travel by train 
+- ⚡ Fun fact: I love to travel by train 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/liscanojac)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/liscanojac/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/liscanojac)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](liscanojac.netlify.app)  
