@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Juan
 #### I am a Full-Stack Developer
-![I am a Full-Stack Developer](https://document-export.canva.com/JcAks/DAExcOJcAks/91/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20211202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211202T072804Z&X-Amz-Expires=69670&X-Amz-Signature=3969ab294aa28031c47698d55ed541f2f96a0afb326f488b192ba6f1f29c33ac&X-Amz-SignedHeaders=host&response-expires=Fri%2C%2003%20Dec%202021%2002%3A49%3A14%20GMT)
+![I am a Full-Stack Developer](https://github.com/liscanojac/liscanojac/blob/main/ghBanner.png)
 
 My 'secret' is to be always learning and the ability to combine code with functionality. Passionate about ReactJS and Redux as tools that have helped me to create powerful apps with beautiful web designs.
 
