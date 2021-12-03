@@ -6,15 +6,15 @@ My 'secret' is to be always learning and the ability to combine code with functi
 
 But is not only bling what I'm after, currently I'm learning TDD with ReactJS and all that philosophy of constant improvement and developing code as solid as possible throughout prior testing. I've also worked with NodeJS tools and in a back-end sense with ExpressJS and Sequelize. On the database side of things I have used postgreSQL and currently learning MongoDB and its tools.
 
-:electric_plug: Open to work Remotely or to be relocated.
-:computer: +2000 hs of code experience.
-:mortar_board: Bachelor Degree in Chemical Engineering.
-:muscle: Skills: HTML, CSS, JavaScript, Bootstrap, ReactJS, Redux, NodeJS, ExpressJS, Sequelize, SQL.
-:gb: Fluent in English. IELTS (7) and Cambridge (174).
-:briefcase: Portfolio: liscanojac.netlify.app
-:card_file_box: LinkedIn: /liscanojac
-:bird: Twitter: @liscanojac
-:koala: Two advanced diplomas in Australia: Project Management and Leadership and Management.
+- :electric_plug: Open to work Remotely or to be relocated.
+- :computer: +2000 hs of code experience.
+- :mortar_board: Bachelor Degree in Chemical Engineering.
+- :muscle: Skills: HTML, CSS, JavaScript, Bootstrap, ReactJS, Redux, NodeJS, ExpressJS, Sequelize, SQL.
+- :gb: Fluent in English. IELTS (7) and Cambridge (174).
+- :briefcase: Portfolio: liscanojac.netlify.app
+- :card_file_box: LinkedIn: /liscanojac
+- :bird: Twitter: @liscanojac
+- :koala: Two advanced diplomas in Australia: Project Management and Leadership and Management.
 
 When myself, a ChemEng🥼 decided a career change I always knew that I had to aim to the MERN Stack, because learning React:atom_symbol: would give me the chance to make the best chemical⚗️ puns about my code.:stuck_out_tongue:
 
