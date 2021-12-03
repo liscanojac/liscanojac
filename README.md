@@ -2,7 +2,7 @@
 
 I'm Juan, I currently live in Argentina and I'm a Full-Stack Developer primarily focused on the MERN Stack.
 
-My 'secret'is to be always learning and the ability to combine code with functionality. Passionate about ReactJS and Redux as tools that have helped me to create powerful apps with beautiful web designs. 
+My 'secret' is to be always learning and the ability to combine code with functionality. Passionate about ReactJS and Redux as tools that have helped me to create powerful apps with beautiful web designs. 
 
 But is not only bling what I'm after, currently I'm learning TDD with ReactJS and all that philosophy of constant improvement and developing code as solid as possible throughout prior testing. I've also worked with NodeJS tools and in a back-end sense with ExpressJS and Sequelize. On the database side of things I have used postgreSQL and currently learning MongoDB and its tools.
 
