@@ -4,7 +4,7 @@
 ### I am a Front-End Developer
 My 'secret' is to be always learning and the ability to combine code with functionality. Passionate about Vue and Vite as tools that have helped me to create powerful apps with beautiful web designs.
 
-But is not only bling what I'm after, currently I'm learning TDD with VueJS and all that philosophy of constant improvement and developing code as solid as possible throughout prior testing. FrontEnd Developer at @miaguila working with the Vue stack, Nuxt and Jest.
+But is not only bling what I'm after, currently I'm learning TDD with VueJS and all that philosophy of constant improvement and developing code as solid as possible throughout prior testing. FrontEnd Developer at [Mi Aguila](https://github.com/MiAguila) working with the Vue stack, Nuxt and Jest.
 
 - :electric_plug: Open to work Remotely or to be relocated.
 - :computer: Vue and React stack code experience.
