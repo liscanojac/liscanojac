@@ -1,4 +1,4 @@
-![I am a Full-Stack Developer](https://github.com/liscanojac/liscanojac/blob/main/ghBanner.png)
+![I am a Full-Stack Developer](https://github.com/liscanojac/liscanojac/blob/main/githubBanner.png)
 
 # Hi there 👋, my name is Juan
 ### I am a Full-Stack Developer
