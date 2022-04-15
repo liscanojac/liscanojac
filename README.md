@@ -1,15 +1,15 @@
-![I am a Full-Stack Developer](https://github.com/liscanojac/liscanojac/blob/main/githubBanner.png)
+![I am a Front-End Developer](https://github.com/liscanojac/liscanojac/blob/main/githubBanner.png)
 
 # Hi there 👋, my name is Juan
-### I am a Full-Stack Developer
-My 'secret' is to be always learning and the ability to combine code with functionality. Passionate about ReactJS and Redux as tools that have helped me to create powerful apps with beautiful web designs.
+### I am a Front-End Developer
+My 'secret' is to be always learning and the ability to combine code with functionality. Passionate about Vue and Vite as tools that have helped me to create powerful apps with beautiful web designs.
 
-But is not only bling what I'm after, currently I'm learning TDD with ReactJS and all that philosophy of constant improvement and developing code as solid as possible throughout prior testing. I've also worked with NodeJS tools and in a back-end sense with ExpressJS and Sequelize. On the database side of things I have used postgreSQL and currently learning MongoDB and its tools.
+But is not only bling what I'm after, currently I'm learning TDD with VueJS and all that philosophy of constant improvement and developing code as solid as possible throughout prior testing. FrontEnd Developer at @miaguila working with the Vue stack, Nuxt and Jest.
 
 - :electric_plug: Open to work Remotely or to be relocated.
-- :computer: +2000 hs of code experience.
+- :computer: Vue and React stack code experience.
 - :mortar_board: Bachelor Degree in Chemical Engineering.
-- :muscle: Skills: HTML, CSS, JavaScript, Bootstrap, ReactJS, Redux, NodeJS, ExpressJS, Sequelize, SQL.
+- :muscle: Skills: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind ReactJS, Redux, Vue, Vuex, Jest, Testing Library, Nuxt and others.
 - :gb: Fluent in English. IELTS (7) and Cambridge (174).
 - :briefcase: Portfolio [liscanojac.netlify.app](https://liscanojac.netlify.app/)
 - :card_file_box: LinkedIn: [/liscanojac](https://www.linkedin.com/in/liscanojac/)
