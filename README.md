@@ -1,4 +1,4 @@
-![I am a Front-End Developer](https://github.com/liscanojac/liscanojac/blob/main/githubBanner.png)
+![I am a Front-End Developer](https://github.com/liscanojac/liscanojac/blob/main/github_banner.png)
 
 # Hi there 👋, my name is Juan
 ### I am a Front-End Developer
