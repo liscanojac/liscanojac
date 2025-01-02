@@ -18,7 +18,7 @@ While proficient in popular UI frameworks like Tailwind CSS, Bootstrap, and Angu
 - :bird: Twitter: [@liscanojac](https://twitter.com/liscanojac)
 - :koala: Two advanced diplomas in Australia: Project Management and Leadership and Management.
 
-When I, a ChemEng🥼, decided to pivot to software development,I began learning and working with React:atom_symbol: and that helped me not only to build my foundational skills, but also would give me the chance to make the best chemical puns.
+When I, a ChemEng🥼, decided to pivot to software development,I began learning and working with React :atom_symbol: and that helped me not only to build my foundational skills, but also would give me the chance to make the best chemical puns.
 
 While I initially experimented⚗️ with React, I found my true elements in Vue and Angular which, combined with TypeScript, create the perfect compound for building awesome web apps, which are now my primary frameworks.
 
