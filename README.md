@@ -1,40 +1,36 @@
 ![I am a Front-End Developer](https://github.com/liscanojac/liscanojac/blob/main/github_banner.png)
 
-# Hi there 👋, my name is Juan
-### I am a Front-End Developer
-My 'secret' is to be always learning and the ability to combine code with functionality. Passionate about Vue and Vite as tools that have helped me to create powerful apps with beautiful web designs.
+# Hello there 👋, my name is Juan
 
-But is not only bling what I'm after, currently I'm learning TDD with VueJS and all that philosophy of constant improvement and developing code as solid as possible throughout prior testing. FrontEnd Developer at [Mi Aguila](https://github.com/MiAguila) working with the Vue stack, Nuxt and Jest.
+### Front-End Developer | Vue & Angular Specialist
+
+My 'secret' lies in my commitment to continuous learning and my ability to combine code, functionality, and testing. With over 3 years of experience developing front-end applications with Vue, Nuxt, and Angular, I'm passionate about delivering clean, maintainable, and well-tested code.
+
+While proficient in popular UI frameworks like Tailwind CSS, Bootstrap, and Angular Material. What sets me apart as a Front-End Developer is my focus on building robust and maintainable applications, not only aesthetically pleasing ones. My implementation of Test-Driven Development (TDD) in my previous role led to a 20% decrease in bug occurrences.
 
 - :electric_plug: Open to work Remotely or to be relocated.
-- :computer: Vue and React stack code experience.
+- :computer: Vue and Angular 3+ years of code experience.
 - :mortar_board: Bachelor Degree in Chemical Engineering.
-- :muscle: Skills: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind ReactJS, Redux, Vue, Vuex, Jest, Testing Library, Nuxt and others.
+- :muscle: Skills: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind, Vue, Angular, Nuxt Pinia, Angular Material, Jest, Jasmine and others.
 - :gb: Fluent in English. IELTS (7) and Cambridge (174).
 - :briefcase: Portfolio [liscanojac.netlify.app](https://liscanojac.netlify.app/)
 - :card_file_box: LinkedIn: [/liscanojac](https://www.linkedin.com/in/liscanojac/)
 - :bird: Twitter: [@liscanojac](https://twitter.com/liscanojac)
 - :koala: Two advanced diplomas in Australia: Project Management and Leadership and Management.
 
-When myself, a ChemEng🥼 decided a career change I always knew that I had to aim to the MERN Stack, because learning React:atom_symbol: would give me the chance to make the best chemical⚗️ puns about my code.:stuck_out_tongue:
+When I, a ChemEng🥼, decided to pivot to software development,I began learning and working with React:atom_symbol: and that helped me not only to build my foundational skills, but also would give me the chance to make the best chemical puns.
+
+While I initially experimented⚗️ with React, I found my true elements in Vue and Angular which, combined with TypeScript, create the perfect compound for building awesome web apps, which are now my primary frameworks.
 
 ## Skills
-REACT / REDUX / NODE JS / EXPRESS JS / SEQUELIZE / SQL / BOOTSTRAP / JS / HTML / CSS
 
-- 🏗️ I’m currently working on this page. 
-- 🌱 I’m currently learning TDD with ReactJS and MongoDB 
-- 📫 How to reach me: liscanojac@gmail.com 
-- ⚡ Fun fact: I love to travel by train 
+VUE / PINIA / NUXT / VITE / ANGULAR / NODE JS / TAILWIND / BOOTSTRAP / JS / TS / HTML / CSS
 
+- 🏗️ I’m currently working on this page.
+- 🌱 Always learning TDD with Vue and Angular
+- 📫 How to reach me: liscanojac@gmail.com
+- ⚡ Fun fact: I love to travel by train
 
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='color:#00eafa;'>](https://github.com/liscanojac)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/liscanojac/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/liscanojac)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](liscanojac.netlify.app)   -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=liscanojac&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=liscanojac&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=liscanojac)  
-
-![Profile views](https://gpvc.arturio.dev/liscanojac)  
-
-
-
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=liscanojac)
