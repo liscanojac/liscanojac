@@ -4,7 +4,7 @@
 
 ### Front-End Developer | Vue & Angular Specialist
 
-My 'secret' lies in my commitment to continuous learning and my ability to combine code, functionality, and testing. With over 3 years of experience developing front-end applications with Vue, Nuxt, and Angular, I'm passionate about delivering clean, maintainable, and well-tested code.
+My 'secret' lies in my commitment to continuous learning and my ability to combine code, functionality, and testing. With over 3 years of experience developing front-end applications with Vue, Nuxt, and Angular, I'm passionate about delivering clean, maintainable, scalable and well-tested code.
 
 While proficient in popular UI frameworks like Tailwind CSS, Bootstrap, and Angular Material. What sets me apart as a Front-End Developer is my focus on building robust and maintainable applications, not only aesthetically pleasing ones. My implementation of Test-Driven Development (TDD) in my previous role led to a 20% decrease in bug occurrences.
 
